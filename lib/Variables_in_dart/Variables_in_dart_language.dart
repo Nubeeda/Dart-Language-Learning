@@ -95,6 +95,10 @@ print(per);
   desc = 'Dart programming language';
   print(desc); // Output: Dart programming language
 
+
+  String studentName = "Nubeeda";
+  print(studentName); 
+
 }
 
 
